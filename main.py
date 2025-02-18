@@ -8,10 +8,6 @@ import numpy as np
 import face_live
 import pickle
 
-#   AAI 202 
-#   Assessment 3 project
-#
-#   Tibor Titusz Tarcsai
 
 # Main program consisting of a while loop to perform on speech commands.
 # 4 commands including face_detection, train_model, run_model and exit that halts the program.
